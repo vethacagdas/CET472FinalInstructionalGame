@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b71e5892a345748ee8231f428ed7fe, type: 3}
+  m_Name: TutorialData_AresScene_2
+  m_EditorClassIdentifier: 
+  Steps:
+  - EkoBotSprite: {fileID: 0}
+    Instruction: "Hayvanlar\u0131 zincirlerden kurtard\u0131n, ancak g\xF6rd\xFC\u011F\xFCn
+      gibi birbirleri ile beslendiler. Canavar\u0131n bu zincirlere BES\u0130N Z\u0130NC\u0130R\u0130
+      demesinin bir sebebi varm\u0131\u015F demek ki.."
+    PanelState: 0
+  - EkoBotSprite: {fileID: 1129679118, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Daha temkinli ilerlemek i\xE7in yapt\u0131klar\u0131n\u0131 not
+      almal\u0131s\u0131n. Bunlar\u0131 raporlamam\u0131z gerekecek."
+    PanelState: 1

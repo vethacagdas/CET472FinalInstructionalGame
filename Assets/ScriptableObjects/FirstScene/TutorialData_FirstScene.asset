@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b71e5892a345748ee8231f428ed7fe, type: 3}
+  m_Name: TutorialData_FirstScene
+  m_EditorClassIdentifier: 
+  Steps:
+  - EkoBotSprite: {fileID: -586182886, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Selam! Sen galaksimizi korumaya gelen kahraman olmal\u0131s\u0131n."
+    PanelState: 1
+  - EkoBotSprite: {fileID: -586182886, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Bana ismini s\xF6yler misin?"
+    PanelState: 1
+  - EkoBotSprite: {fileID: -586182886, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Harika!!! Ho\u015F geldin <playerName>."
+    PanelState: 1
+  - EkoBotSprite: {fileID: -968950385, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Ancak seninle payla\u015Fmam gereken \xF6nemli bir sorunumuz var."
+    PanelState: 1
+  - EkoBotSprite: {fileID: -497391897, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Enerji ve \xE7evre sorunlar\u0131 y\xFCz\xFCnden gezegenlerimizde
+      kaynaklar\u0131m\u0131z t\xFCkendi."
+    PanelState: 1
+  - EkoBotSprite: {fileID: 547081008, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Ama senin bize yard\u0131m edece\u011Fini biliyorum."
+    PanelState: 1
+  - EkoBotSprite: {fileID: 547081008, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Gezegenlerimizi kurtar l\xFCtfen. Ayr\u0131ca gezegenlerin y\xF6neticileri
+      bu iyili\u011Fini kar\u015F\u0131l\u0131ks\u0131z b\u0131rakmayacaklar."
+    PanelState: 1
+  - EkoBotSprite: {fileID: -131795814, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Kar\u015F\u0131l\u0131\u011F\u0131nda elmaslar verecekler. Ayr\u0131ca
+      g\xF6rev sonunda \"Galaksinin Koruyucusu\" sertifikas\u0131n\u0131 da almaya
+      hak kazanacaks\u0131n."
+    PanelState: 1
+  - EkoBotSprite: {fileID: 677722249, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "\xD6nce sana kullanaca\u011F\u0131n e\u015Fyalar\u0131n\u0131 tan\u0131taca\u011F\u0131m.
+      Haydi \xE7ok yolumuz var!!!"
+    PanelState: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b71e5892a345748ee8231f428ed7fe, type: 3}
+  m_Name: TutorialData_EarthScene_2
+  m_EditorClassIdentifier: 
+  Steps:
+  - EkoBotSprite: {fileID: -497391897, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "Bu g\xF6zlemde bayku\u015Flar hala nesli t\xFCkenmekte olan canl\u0131lar
+      aras\u0131nda. \u015Eimdi g\xF6revleri tamamlay\u0131p ortam\u0131 daha iyi
+      g\xF6zlemleyelim."
+    PanelState: 1
+  - EkoBotSprite: {fileID: 0}
+    Instruction: Bitki olmayan bir durumu incele.
+    PanelState: 0

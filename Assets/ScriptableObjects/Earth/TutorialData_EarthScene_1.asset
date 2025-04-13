@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b71e5892a345748ee8231f428ed7fe, type: 3}
+  m_Name: TutorialData_EarthScene_1
+  m_EditorClassIdentifier: 
+  Steps:
+  - EkoBotSprite: {fileID: -497391897, guid: 566baa3128f1ae14a94dba81349975b0, type: 3}
+    Instruction: "D\xFCnya gezegeninde bayku\u015F canl\u0131s\u0131n\u0131n nesli
+      t\xFCkenmekte. Bayku\u015Flar\u0131 kurtarmak i\xE7in y\xF6nergeleri takip
+      et."
+    PanelState: 1
+  - EkoBotSprite: {fileID: 0}
+    Instruction: "Barlardan yararlanarak bayku\u015Flar\u0131n soyunun t\xFCkenmemesi
+      i\xE7in neler yapman gerekti\u011Fini belirlemen gerekiyor."
+    PanelState: 0
+  - EkoBotSprite: {fileID: 0}
+    Instruction: "Ad\u0131mlar\u0131 takip et ve kar\u015F\u0131na \xE7\u0131kan
+      raporlar\u0131 tamamla <playerName>."
+    PanelState: 0
+  - EkoBotSprite: {fileID: 0}
+    Instruction: "G\xF6reve ba\u015Flamadan \xF6nce g\xF6zlem yapmal\u0131s\u0131n.
+      Devam butonuna bast\u0131\u011F\u0131nda ortam\u0131 inceleyebileceksin."
+    PanelState: 0

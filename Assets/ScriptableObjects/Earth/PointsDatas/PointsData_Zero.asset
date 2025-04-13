@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d5a9b0402a84112967c5a149884b20d, type: 3}
+  m_Name: PointsData_Zero
+  m_EditorClassIdentifier: 
+  Points:
+  - {x: 0, y: 0}
+  - {x: 10, y: 0}
+  - {x: 20, y: 0}
+  - {x: 30, y: 0}
+  - {x: 40, y: 0}
+  - {x: 50, y: 0}
+  - {x: 60, y: 0}
+  - {x: 70, y: 0}
+  - {x: 80, y: 0}
+  - {x: 90, y: 0}
+  - {x: 100, y: 0}
+  - {x: 110, y: 0}
+  - {x: 120, y: 0}
+  - {x: 130, y: 0}
+  - {x: 140, y: 0}
+  - {x: 150, y: 0}
+  - {x: 160, y: 0}
+  - {x: 170, y: 0}
+  - {x: 180, y: 0}
+  - {x: 190, y: 0}
+  - {x: 200, y: 0}
+  - {x: 210, y: 0}
+  - {x: 220, y: 0}
+  - {x: 230, y: 0}
+  - {x: 240, y: 0}
+  - {x: 250, y: 0}
+  - {x: 260, y: 0}
+  - {x: 270, y: 0}
